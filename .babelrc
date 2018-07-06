@@ -1,0 +1,17 @@
+{
+	"presets": [
+		"vue-app",
+		["es2015",{"module": false}]
+	],
+	"plugins": [
+		[
+			"component",
+			[
+				{
+					"libraryName": "element-ui",
+					"styleLibraryName": "theme-chalk"
+				}
+			]
+		]
+	]
+}
